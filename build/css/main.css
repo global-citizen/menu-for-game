@@ -1,0 +1,21 @@
+.background {
+  background: url("../../img/main-bg.jpg");
+  width: 807px;
+  height: 730px;
+}
+body,
+html {
+  margin: 0;
+}
+.button__train {
+  background: url("../../img/button_trenirovka_off.png");
+  width: 228px;
+  height: 102px;
+  margin: 387px 0 0 295px;
+  outset: none;
+  border: 0;
+}
+.button__train:hover {
+  cursor: pointer;
+  background: url("../../img/button_trenirovka_on.png");
+}

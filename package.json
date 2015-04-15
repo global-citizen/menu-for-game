@@ -5,7 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "gulp": "^3.8.11",
-    "jade": "^1.9.2"
+    "gulp-jade": "^1.0.0",
+    "gulp-stylus": "^2.0.1",
+    "jade": "^1.9.2",
+    "stylus": "^0.50.0"
   },
   "devDependencies": {},
   "scripts": {
