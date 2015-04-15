@@ -19,3 +19,13 @@ html {
   cursor: pointer;
   background: url("../../img/button_trenirovka_on.png");
 }
+.button__play {
+  background: url("../../img/button_igra_off.png");
+  width: 227px;
+  height: 102px;
+  margin: 331px 0 0 0;
+  outset: none;
+  border: 0;
+  position: absolute;
+  left: 295px;
+}
