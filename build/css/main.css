@@ -74,7 +74,7 @@ html {
   background: url("../../img/button_arrow2_off.png");
   width: 36px;
   height: 28px;
-  margin: 640px 0 0 0;
+  top: 640px;
   border: 0;
   position: absolute;
   left: 736px;
@@ -87,7 +87,7 @@ html {
   background: url("../../img/button_frakcia_off.png");
   width: 145px;
   height: 123px;
-  margin: 607px 0 0 0;
+  top: 607px;
   border: 0;
   position: absolute;
   left: 57px;
@@ -100,7 +100,7 @@ html {
   background: url("../../img/progres_bar_red.png");
   width: 789px;
   height: 68px;
-  margin: 662px 0 0 0;
+  top: 662px;
   position: absolute;
   border: 0;
   left: 7px;
@@ -109,7 +109,7 @@ html {
   background: url("../../img/zoloto.png");
   width: 138px;
   height: 98px;
-  margin: 595px 0 0 0;
+  top: 595px;
   position: absolute;
   border: 0;
   left: 581px;
@@ -118,7 +118,7 @@ html {
   background: url("../../img/serebro.png");
   width: 240px;
   height: 87px;
-  margin: 619px 0 0 0;
+  top: 619px;
   position: absolute;
   border: 0px;
   left: 392px;
@@ -127,7 +127,7 @@ html {
   background: url("../../img/button_friend_off.png");
   width: 106px;
   height: 124px;
-  margin: 476px 0 0 0;
+  top: 5px;
   position: absolute;
   border: 0;
   left: 693px;
@@ -140,7 +140,7 @@ html {
   background: url("../../img/button_profile_off.png");
   width: 133px;
   height: 154px;
-  margin: 139px 0 0 0;
+  top: 139px;
   position: absolute;
   border: 0;
   left: 581px;
@@ -153,7 +153,7 @@ html {
   background: url("../../img/button_magaz_off.png");
   width: 244px;
   height: 236px;
-  margin: 447px 0 0 0;
+  top: 447px;
   position: absolute;
   border: 0;
   left: 478px;
@@ -166,7 +166,7 @@ html {
   background: url("../../img/button_musec_off1.png");
   width: 91px;
   height: 103px;
-  margin: 5px 0 0 0;
+  top: 5px;
   position: absolute;
   border: 0;
   left: 22px;
@@ -179,7 +179,7 @@ html {
   background: url("../../img/glavniy.png");
   width: 124px;
   height: 147px;
-  margin: 26px 0 0 0;
+  top: 26px;
   position: absolute;
   border: 0;
   left: 679px;
@@ -188,7 +188,7 @@ html {
   background: url("../../img/avatar1.png");
   width: 104px;
   height: 124px;
-  margin: 186px 0 0 0;
+  top: 186px;
   position: absolute;
   border: 0;
   left: 694px;
@@ -197,7 +197,7 @@ html {
   background: url("../../img/avatar2.png");
   width: 104px;
   height: 124px;
-  margin: 333px 0 0 0;
+  top: 336px;
   position: absolute;
   border: 0;
   left: 694px;
@@ -206,7 +206,7 @@ html {
   background: url("../../img/noti.png");
   width: 62px;
   height: 35px;
-  margin: 16px 0 0 0;
+  top: 16px;
   position: absolute;
   border: 0;
   left: 101px;
